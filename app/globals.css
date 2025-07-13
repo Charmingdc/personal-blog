@@ -1,3 +1,10 @@
+@import "tailwindcss";
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@theme inline {
+  --color-primary: #10b981; 
+  --font-display: "Inter", sans-serif;
+  --breakpoint-3xl: 1920px;
+}
