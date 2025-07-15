@@ -6,9 +6,9 @@ const Home = () => {
       <header>
         <NavBar />
       </header>
-      
+
       <main></main>
-      
+
       <footer></footer>
     </>
   );
